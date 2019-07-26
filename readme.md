@@ -25,8 +25,8 @@ personal site: [esrztk.github.io](esrztk.github.io)
 
 ## Presentations
 
-1. [Age of Enlightenment - 418 Modern Europe](https://esrztk.github.io/HIST418ENLIGHT/)
+1. [Age of Enlightenment](https://esrztk.github.io/HIST418ENLIGHT/)
 
-2. American Revolution
+2. The American Revolution (1776)
 
-3. French Revolution
+3. The French Revolution (1789)
