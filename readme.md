@@ -24,7 +24,7 @@ personal site: [esrztk.github.io](esrztk.github.io)
     - ![status: Work in Progress](https://img.shields.io/badge/status-Work%20in%20Progress-yellow.svg)
 
 ## Presentations
-  - *Presentations that I made throughout my master degree*
-  1. [Age of Enlightenment - 418 Modern Europe](https://esrztk.github.io/HIST418ENLIGHT/)
-  2. American Revolution
-  3. French Revolution
+1. [Age of Enlightenment - 418 Modern Europe](https://esrztk.github.io/HIST418ENLIGHT/)
+  - *Modern Europe - Spring 2020*
+2. American Revolution
+3. French Revolution
