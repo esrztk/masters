@@ -15,7 +15,7 @@ personal site: [esrztk.github.io](esrztk.github.io)
 
 1. Thesis
     - *my thesis, written in LaTeX*
-    - ![status: Private](https://img.shields.io/badge/status-Private-red.svg)
+    - ![status: private](https://img.shields.io/badge/status-private-red.svg)
 
 ### Miscellaneous
 
