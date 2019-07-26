@@ -9,6 +9,6 @@ A list of my all Master related Repos
 1. [Notebooks](https://github.com/esrztk/notebook)
     - ![status: Work in Progress](https://img.shields.io/badge/status-Work%20in%20Progress-yellow.svg)
 
-2. Presentations
-    - [Age of Enlightenment - 2020](https://esrztk.github.io/HIST418ENLIGHT/)
-    - 
+### Presentations
+    - [Age of Enlightenment - 2020 Modern Europe](https://esrztk.github.io/HIST418ENLIGHT/)
+    -
