@@ -25,6 +25,6 @@ personal site: [esrztk.github.io](esrztk.github.io)
 
 ## Presentations
   - *Presentations that I made throughout my master degree*
-  - [Age of Enlightenment - 418 Modern Europe](https://esrztk.github.io/HIST418ENLIGHT/)
-  - American Revolution
-  - French Revolution
+  1. [Age of Enlightenment - 418 Modern Europe](https://esrztk.github.io/HIST418ENLIGHT/)
+  2. American Revolution
+  3. French Revolution
