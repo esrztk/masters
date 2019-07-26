@@ -6,5 +6,5 @@ A list of my all Master related Repos
 
 ## Miscellaneous
 
-* [Notebooks][https://github.com/esrztk/notebook]
-[![status](https://img.shields.io/badge/Status%3F-work in progress-yellow.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+1. [Notebooks](https://github.com/esrztk/notebook)
+ - ![status: Work in Progress](https://img.shields.io/badge/status-Work%20in%20Progress-yellow.svg)
