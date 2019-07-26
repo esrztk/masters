@@ -23,7 +23,7 @@ personal site: [esrztk.github.io](esrztk.github.io)
     - *usually includes pdf annotations & personal notes, most of them are markdown files*
     - ![status: Work in Progress](https://img.shields.io/badge/status-Work%20in%20Progress-yellow.svg)
 
-### Presentations
+## Presentations
     - *Presentations that I made throughout my master degree*
     - [Age of Enlightenment - 2020 Modern Europe](https://esrztk.github.io/HIST418ENLIGHT/)
     - American Revolution
